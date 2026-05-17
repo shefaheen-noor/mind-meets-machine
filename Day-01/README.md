@@ -1,8 +1,6 @@
-# MIND-MEETS-MACHINE
+# 🌌 Day 01 — Entering the AI Universe
 
-## Day 1 - ENTERING THE AI UNIVERSE
-
-> "Artificial Intelligence is not the future anymore - it is already part of our daily life." ✨
+> “Artificial Intelligence is not the future anymore — it is already part of our daily life.” ✨
 
 ---
 

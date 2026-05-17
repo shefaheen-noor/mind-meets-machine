@@ -1,8 +1,6 @@
-# MIND-MEETS-MACHINE
+# 🤖 Day 02 — Brains Behind Machines
 
-## Day 2 - BRAINS BEHIND MACHINES
-
-> "AI is not magic - it is intelligence designed by humans." ✨
+> “AI is not magic — it is intelligence designed by humans.” ✨
 
 ---
 
