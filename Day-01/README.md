@@ -1,4 +1,4 @@
-# 🌌 MIND-MEETS-MACHINE
+# Mind Meets Machine
 
 ## Day 1 - ENTERING THE AI UNIVERSE
 

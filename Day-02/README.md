@@ -1,4 +1,4 @@
-# 🌌 MIND-MEETS-MACHINE
+# Mind Meets Machine
 
 ## Day 2 - BRAINS BEHIND MACHINES
 
