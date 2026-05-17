@@ -4,7 +4,7 @@
 
 ---
 
-# 🤖 What is Artificial Intelligence?
+## 🤖 What is Artificial Intelligence?
 
 Artificial Intelligence (AI) is a technology that allows machines and computers to think, learn, analyze, and make decisions similar to humans.
 
@@ -17,36 +17,36 @@ AI helps systems perform tasks that normally require human intelligence such as:
 
 ---
 
-# 💡 Simple Definition
+## 💡 Simple Definition
 
 Artificial Intelligence is the ability of machines to imitate human intelligence.
 
 ---
 
-# 🌍 Real-World Examples of AI
+## 🌍 Real-World Examples of AI
 
-## 📱 Smartphones
+### 📱 Smartphones
 - Face unlock
 - Voice assistants
 - Smart camera filters
 
-## 🎬 Social Media
+### 🎬 Social Media
 - Instagram feed recommendations
 - YouTube video suggestions
 - TikTok algorithm
 
-## 🛒 Shopping Apps
+### 🛒 Shopping Apps
 - Product recommendations
 - Personalized ads
 
-## 💬 AI Chatbots
+### 💬 AI Chatbots
 - ChatGPT
 - Gemini
 - Customer support bots
 
 ---
 
-# ⚙️ How AI Works (Simple Explanation)
+## ⚙️ How AI Works (Simple Explanation)
 
 AI systems work using:
 1. Data
@@ -60,7 +60,7 @@ If an AI sees thousands of cat images, it learns how a cat looks and can later i
 
 ---
 
-# 🧠 Why AI is Important?
+## 🧠 Why AI is Important?
 
 AI helps:
 - Save time
@@ -79,7 +79,7 @@ Today AI is used in:
 
 ---
 
-# ✨ Types of Tasks AI Can Do
+## ✨ Types of Tasks AI Can Do
 
 | AI Ability | Example |
 |---|---|
@@ -91,7 +91,7 @@ Today AI is used in:
 
 ---
 
-# 🚀 Advantages of AI
+## 🚀 Advantages of AI
 
 - Faster decision making
 - 24/7 availability
@@ -101,7 +101,7 @@ Today AI is used in:
 
 ---
 
-# ⚠️ Challenges of AI
+## ⚠️ Challenges of AI
 
 - Privacy concerns
 - Job replacement fears
@@ -110,7 +110,7 @@ Today AI is used in:
 
 ---
 
-# 🌸 What I Learned Today
+## 🌸 What I Learned Today
 
 Today I learned:
 - What Artificial Intelligence means
@@ -121,18 +121,18 @@ Today I learned:
 
 ---
 
-# 💭 My Thoughts
+## 💭 My Thoughts
 
 AI is one of the most powerful technologies shaping the future. From social media to healthcare, AI is transforming the way humans interact with technology. Learning AI can open many opportunities in future careers and innovation.
 
 ---
 
-# ✨ Conclusion
+## ✨ Conclusion
 
 Artificial Intelligence is changing the world rapidly by making machines smarter and more efficient. Understanding AI is important because it is becoming part of everyday life and future technology.
 
 ---
 
-## 👩‍💻 Author
-### Shefaheen Noor ✨
+### 👩‍💻 Author
+#### Shefaheen Noor ✨
 Learning AI one commit at a time 🌸
